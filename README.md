@@ -54,15 +54,7 @@
 
 <p align="center">────────── ✦ ──────────</p>
 
-<!-- ===================== GITHUB STATS ===================== -->
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">────────── ✦ ──────────</p>
 
 <!-- ===================== CONNECT ===================== -->
 
